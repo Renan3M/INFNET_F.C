@@ -1,2 +1,2 @@
 # INFNET_F.C
-Esse é meu projeto final da Infnet.
+Esse é meu projeto final de bloco da Infnet.
